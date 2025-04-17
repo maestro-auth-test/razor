@@ -33,6 +33,33 @@
     <MicrosoftExtensionsObjectPoolVersion>0.0.0</MicrosoftExtensionsObjectPoolVersion>
     <SystemCollectionsImmutableVersion>0.0.0</SystemCollectionsImmutableVersion>
     <SystemReflectionMetadataVersion>0.0.0</SystemReflectionMetadataVersion>
+    <MicrosoftNETCoreBrowserDebugHostTransportVersion>0.0.0</MicrosoftNETCoreBrowserDebugHostTransportVersion>
+    <MicrosoftNetCompilersToolsetVersion>0.0.0</MicrosoftNetCompilersToolsetVersion>
+    <MicrosoftCommonLanguageServerProtocolFrameworkVersion>0.0.0</MicrosoftCommonLanguageServerProtocolFrameworkVersion>
+    <MicrosoftCodeAnalysisCommonVersion>0.0.0</MicrosoftCodeAnalysisCommonVersion>
+    <MicrosoftCodeAnalysisCSharpVersion>0.0.0</MicrosoftCodeAnalysisCSharpVersion>
+    <MicrosoftCodeAnalysisCSharpEditorFeaturesVersion>0.0.0</MicrosoftCodeAnalysisCSharpEditorFeaturesVersion>
+    <MicrosoftCodeAnalysisCSharpFeaturesVersion>0.0.0</MicrosoftCodeAnalysisCSharpFeaturesVersion>
+    <MicrosoftCodeAnalysisCSharpWorkspacesVersion>0.0.0</MicrosoftCodeAnalysisCSharpWorkspacesVersion>
+    <MicrosoftCodeAnalysisEditorFeaturesVersion>0.0.0</MicrosoftCodeAnalysisEditorFeaturesVersion>
+    <MicrosoftCodeAnalysisEditorFeaturesCommonVersion>0.0.0</MicrosoftCodeAnalysisEditorFeaturesCommonVersion>
+    <MicrosoftCodeAnalysisEditorFeaturesTextVersion>0.0.0</MicrosoftCodeAnalysisEditorFeaturesTextVersion>
+    <MicrosoftCodeAnalysisEditorFeaturesWpfVersion>0.0.0</MicrosoftCodeAnalysisEditorFeaturesWpfVersion>
+    <MicrosoftCodeAnalysisRemoteServiceHubVersion>0.0.0</MicrosoftCodeAnalysisRemoteServiceHubVersion>
+    <MicrosoftCodeAnalysisVisualBasicWorkspacesVersion>0.0.0</MicrosoftCodeAnalysisVisualBasicWorkspacesVersion>
+    <MicrosoftCodeAnalysisWorkspacesCommonVersion>0.0.0</MicrosoftCodeAnalysisWorkspacesCommonVersion>
+    <MicrosoftCodeAnalysisWorkspacesMSBuildVersion>0.0.0</MicrosoftCodeAnalysisWorkspacesMSBuildVersion>
+    <MicrosoftVisualStudioLanguageServicesVersion>0.0.0</MicrosoftVisualStudioLanguageServicesVersion>
+    <MicrosoftCodeAnalysisTestUtilitiesVersion>0.0.0</MicrosoftCodeAnalysisTestUtilitiesVersion>
+    <MicrosoftCodeAnalysisExternalAccessRazorFeaturesVersion>0.0.0</MicrosoftCodeAnalysisExternalAccessRazorFeaturesVersion>
+    <MicrosoftCodeAnalysisExternalAccessRazorEditorFeaturesVersion>0.0.0</MicrosoftCodeAnalysisExternalAccessRazorEditorFeaturesVersion>
+    <MicrosoftCodeAnalysisLanguageServerProtocolVersion>0.0.0</MicrosoftCodeAnalysisLanguageServerProtocolVersion>
+    <MicrosoftCodeAnalysisExternalAccessFSharpVersion>0.0.0</MicrosoftCodeAnalysisExternalAccessFSharpVersion>
+    <MicrosoftCodeAnalysisAnalyzersVersion>0.0.0</MicrosoftCodeAnalysisAnalyzersVersion>
+    <MicrosoftNETCorePlatformsVersion>0.0.0</MicrosoftNETCorePlatformsVersion>
+    <MicrosoftExtensionsObjectPoolVersion>0.0.0</MicrosoftExtensionsObjectPoolVersion>
+    <SystemCollectionsImmutableVersion>0.0.0</SystemCollectionsImmutableVersion>
+    <SystemReflectionMetadataVersion>0.0.0</SystemReflectionMetadataVersion>
   </PropertyGroup>
   <!-- Opt out Arcade features -->
   <PropertyGroup>
@@ -74,41 +101,41 @@
 
   -->
   <PropertyGroup Label="Automated">
-    <MicrosoftCodeAnalysisAnalyzersPackageVersion>3.12.0-beta1.25215.101</MicrosoftCodeAnalysisAnalyzersPackageVersion>
-    <MicrosoftNETCoreBrowserDebugHostTransportPackageVersion>10.0.0-preview.4.25215.101</MicrosoftNETCoreBrowserDebugHostTransportPackageVersion>
-    <MicrosoftNETCorePlatformsPackageVersion>10.0.0-preview.4.25215.101</MicrosoftNETCorePlatformsPackageVersion>
+    <MicrosoftCodeAnalysisAnalyzersPackageVersion>3.12.0-beta1.25215.102</MicrosoftCodeAnalysisAnalyzersPackageVersion>
+    <MicrosoftNETCoreBrowserDebugHostTransportPackageVersion>10.0.0-preview.4.25215.102</MicrosoftNETCoreBrowserDebugHostTransportPackageVersion>
+    <MicrosoftNETCorePlatformsPackageVersion>10.0.0-preview.4.25215.102</MicrosoftNETCorePlatformsPackageVersion>
     <MicrosoftSourceBuildIntermediatesourcebuildreferencepackagesPackageVersion>10.0.621001</MicrosoftSourceBuildIntermediatesourcebuildreferencepackagesPackageVersion>
     <MicrosoftSourceBuildIntermediatearcadePackageVersion>9.0.0-beta.25204.5</MicrosoftSourceBuildIntermediatearcadePackageVersion>
-    <MicrosoftNetCompilersToolsetPackageVersion>5.0.0-1.25215.101</MicrosoftNetCompilersToolsetPackageVersion>
-    <MicrosoftCodeAnalysisExternalAccessFSharpPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisExternalAccessFSharpPackageVersion>
-    <MicrosoftCommonLanguageServerProtocolFrameworkPackageVersion>5.0.0-1.25215.101</MicrosoftCommonLanguageServerProtocolFrameworkPackageVersion>
+    <MicrosoftNetCompilersToolsetPackageVersion>5.0.0-1.25215.102</MicrosoftNetCompilersToolsetPackageVersion>
+    <MicrosoftCodeAnalysisExternalAccessFSharpPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisExternalAccessFSharpPackageVersion>
+    <MicrosoftCommonLanguageServerProtocolFrameworkPackageVersion>5.0.0-1.25215.102</MicrosoftCommonLanguageServerProtocolFrameworkPackageVersion>
     <MicrosoftCodeAnalysisExternalAccessRazorPackageVersion>5.0.0-1.25207.1</MicrosoftCodeAnalysisExternalAccessRazorPackageVersion>
-    <MicrosoftCodeAnalysisExternalAccessRazorEditorFeaturesPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisExternalAccessRazorEditorFeaturesPackageVersion>
-    <MicrosoftCodeAnalysisExternalAccessRazorFeaturesPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisExternalAccessRazorFeaturesPackageVersion>
-    <MicrosoftCodeAnalysisCommonPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisCommonPackageVersion>
-    <MicrosoftCodeAnalysisCSharpPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisCSharpPackageVersion>
-    <MicrosoftCodeAnalysisCSharpEditorFeaturesPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisCSharpEditorFeaturesPackageVersion>
-    <MicrosoftCodeAnalysisCSharpFeaturesPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisCSharpFeaturesPackageVersion>
-    <MicrosoftCodeAnalysisCSharpWorkspacesPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisCSharpWorkspacesPackageVersion>
-    <MicrosoftCodeAnalysisEditorFeaturesPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisEditorFeaturesPackageVersion>
-    <MicrosoftCodeAnalysisEditorFeaturesCommonPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisEditorFeaturesCommonPackageVersion>
-    <MicrosoftCodeAnalysisEditorFeaturesTextPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisEditorFeaturesTextPackageVersion>
-    <MicrosoftCodeAnalysisEditorFeaturesWpfPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisEditorFeaturesWpfPackageVersion>
-    <MicrosoftCodeAnalysisLanguageServerProtocolPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisLanguageServerProtocolPackageVersion>
-    <MicrosoftCodeAnalysisRemoteServiceHubPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisRemoteServiceHubPackageVersion>
-    <MicrosoftCodeAnalysisTestUtilitiesPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisTestUtilitiesPackageVersion>
-    <MicrosoftCodeAnalysisVisualBasicWorkspacesPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisVisualBasicWorkspacesPackageVersion>
-    <MicrosoftCodeAnalysisWorkspacesCommonPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisWorkspacesCommonPackageVersion>
-    <MicrosoftCodeAnalysisWorkspacesMSBuildPackageVersion>5.0.0-1.25215.101</MicrosoftCodeAnalysisWorkspacesMSBuildPackageVersion>
+    <MicrosoftCodeAnalysisExternalAccessRazorEditorFeaturesPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisExternalAccessRazorEditorFeaturesPackageVersion>
+    <MicrosoftCodeAnalysisExternalAccessRazorFeaturesPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisExternalAccessRazorFeaturesPackageVersion>
+    <MicrosoftCodeAnalysisCommonPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisCommonPackageVersion>
+    <MicrosoftCodeAnalysisCSharpPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisCSharpPackageVersion>
+    <MicrosoftCodeAnalysisCSharpEditorFeaturesPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisCSharpEditorFeaturesPackageVersion>
+    <MicrosoftCodeAnalysisCSharpFeaturesPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisCSharpFeaturesPackageVersion>
+    <MicrosoftCodeAnalysisCSharpWorkspacesPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisCSharpWorkspacesPackageVersion>
+    <MicrosoftCodeAnalysisEditorFeaturesPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisEditorFeaturesPackageVersion>
+    <MicrosoftCodeAnalysisEditorFeaturesCommonPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisEditorFeaturesCommonPackageVersion>
+    <MicrosoftCodeAnalysisEditorFeaturesTextPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisEditorFeaturesTextPackageVersion>
+    <MicrosoftCodeAnalysisEditorFeaturesWpfPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisEditorFeaturesWpfPackageVersion>
+    <MicrosoftCodeAnalysisLanguageServerProtocolPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisLanguageServerProtocolPackageVersion>
+    <MicrosoftCodeAnalysisRemoteServiceHubPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisRemoteServiceHubPackageVersion>
+    <MicrosoftCodeAnalysisTestUtilitiesPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisTestUtilitiesPackageVersion>
+    <MicrosoftCodeAnalysisVisualBasicWorkspacesPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisVisualBasicWorkspacesPackageVersion>
+    <MicrosoftCodeAnalysisWorkspacesCommonPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisWorkspacesCommonPackageVersion>
+    <MicrosoftCodeAnalysisWorkspacesMSBuildPackageVersion>5.0.0-1.25215.102</MicrosoftCodeAnalysisWorkspacesMSBuildPackageVersion>
     <MicrosoftSourceBuildIntermediateroslynPackageVersion>5.0.0-1.25209.6</MicrosoftSourceBuildIntermediateroslynPackageVersion>
-    <MicrosoftVisualStudioLanguageServicesPackageVersion>5.0.0-1.25215.101</MicrosoftVisualStudioLanguageServicesPackageVersion>
+    <MicrosoftVisualStudioLanguageServicesPackageVersion>5.0.0-1.25215.102</MicrosoftVisualStudioLanguageServicesPackageVersion>
     <!--
       Exception - Microsoft.Extensions.ObjectPool and System.Collections.Immutable packages are not updated by automation,
       but are present in Version.Details.xml for source-build PVP flow. See the comment in Version.Details.xml for more information.
     -->
-    <MicrosoftExtensionsObjectPoolPackageVersion>10.0.0-preview.4.25215.101</MicrosoftExtensionsObjectPoolPackageVersion>
-    <SystemCollectionsImmutablePackageVersion>10.0.0-preview.4.25215.101</SystemCollectionsImmutablePackageVersion>
-    <SystemReflectionMetadataPackageVersion>10.0.0-preview.4.25215.101</SystemReflectionMetadataPackageVersion>
+    <MicrosoftExtensionsObjectPoolPackageVersion>10.0.0-preview.4.25215.102</MicrosoftExtensionsObjectPoolPackageVersion>
+    <SystemCollectionsImmutablePackageVersion>10.0.0-preview.4.25215.102</SystemCollectionsImmutablePackageVersion>
+    <SystemReflectionMetadataPackageVersion>10.0.0-preview.4.25215.102</SystemReflectionMetadataPackageVersion>
   </PropertyGroup>
   <!--
 
